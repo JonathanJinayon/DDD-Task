@@ -1,4 +1,3 @@
-// src/domain/entities/Fruit.ts
 import { FruitDescription } from '../value-objects/FruitDescription';
 
 export class Fruit {
